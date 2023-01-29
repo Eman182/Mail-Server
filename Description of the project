@@ -4,3 +4,5 @@ On signing up a new user account is saved on the system and if user needs to ope
 A user can send message by clicking on compose new message and type the message body, title, receiver and adding attachments if exist.Then send the message.
 User can send to multiple receivers by adding their emails separated by commas.
 When a user deletes message not in the trash --> it is moved to the trash.if he didn't restore it before 30 days so it is deleted permenantly.
+
+This project was made to learn more about linkedlists, stack and priority queues.
