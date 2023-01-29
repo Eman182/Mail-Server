@@ -1,0 +1,6 @@
+This is a desktop mail server application written in java programming language
+For a user to use this system he should have an account so he must sign up if he doesn't have an account
+On signing up a new user account is saved on the system and if user needs to open this account he can log in to it with the saved user name and password
+A user can send message by clicking on compose new message and type the message body, title, receiver and adding attachments if exist.Then send the message.
+User can send to multiple receivers by adding their emails separated by commas.
+When a user deletes message not in the trash --> it is moved to the trash.if he didn't restore it before 30 days so it is deleted permenantly.
